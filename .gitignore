@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+logs
+node_modules
+*.pyc
+*.ttf
+*.ttc
